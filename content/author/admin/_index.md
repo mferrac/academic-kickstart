@@ -24,7 +24,7 @@ email = "matheus.ferraciolli@gmail.com"
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Data science",
+  "Data Science",
   "Digital Agriculture"
 ]
 
@@ -67,6 +67,11 @@ user_groups = ["Researchers", "Visitors"]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/mferrac"
+
+[[social]]
+  icon = "kaggle"
+  icon_pack = "fab"
+  link = "https://kaggle.com/mferrac"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

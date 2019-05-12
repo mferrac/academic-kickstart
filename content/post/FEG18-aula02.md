@@ -1,6 +1,6 @@
 +++
-title = "FEG18 Aula02"
-subtitle = "Curso de Extensão - Análise de Dados"
+title = "Análise de Dados - Aula 02"
+subtitle = "Curso de Extensão - Feagri 2019"
 date = 2019-05-01T09:32:50-03:00
 draft = false
 
@@ -19,6 +19,20 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+## Homework
+
+1. Baixe os dados em https://transfer.sh/ElXkS/adult_data.csv
+
+2. Importe os dados no Rstudio
+
+3. Envie as respostas pelo [formulário](https://forms.gle/UQxbW6csWnfFWMw69)
+
+## Arquivos da aula
+
+O notebook da aula pode ser baixado [neste link](https://kyso.io/mferrac/analise-de-dados-02-manipulacao-de-dados)
+
+Os arquivos da aula podem ser baixados [neste link](http://bit.ly/feagri_analise_dados_aula02).
+
 ## Instalação do Jupyter com R
 
 Para instalar o Jupyter notebook no windows, primeiro é preciso instalar o anaconda no link:

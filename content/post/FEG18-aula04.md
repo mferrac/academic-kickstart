@@ -1,16 +1,15 @@
-
 +++
 title = "Análise de Dados - Aula 04"
-subtitle = "K-Neares Neighbors - KNN - Feagri 2019"
-date = 2019-05-20T12:13:50-03:00
+subtitle = "K Nearest Neighbors - Feagri 2019"
+date = 2019-05-20T12:00:50-03:00
 draft = false
 tags = []
 categories = []
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
 +++
+
+# Dados da aula
+
+Os dados podem ser baixados [na pasta da Aula 04]([pasta Homework da Aula 03](https://drive.google.com/drive/folders/1yn_5FuPA_wRddyM7WR8_fo94-6DDut3W?usp=sharing))
 
 # Instalações
 

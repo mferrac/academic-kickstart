@@ -22,7 +22,7 @@ categories = []
 
 ## Homework
 
-1. Baixe os dados em https://transfer.sh/UcsrP/cardio_data.csv
+1. Baixe os dados na [pasta Homework da Aula 03](https://drive.google.com/drive/folders/1yn_5FuPA_wRddyM7WR8_fo94-6DDut3W?usp=sharing)
 
 2. Importe os dados no Rstudio
 

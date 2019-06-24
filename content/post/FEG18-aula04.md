@@ -9,7 +9,7 @@ categories = []
 
 # Dados da aula
 
-Os dados podem ser baixados [na pasta da Aula 04]([pasta Homework da Aula 03](https://drive.google.com/drive/folders/1yn_5FuPA_wRddyM7WR8_fo94-6DDut3W?usp=sharing))
+Os dados podem ser baixados [na pasta da Aula 04](https://drive.google.com/drive/folders/1yn_5FuPA_wRddyM7WR8_fo94-6DDut3W?usp=sharing)
 
 # Instalações
 
